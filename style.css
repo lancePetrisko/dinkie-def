@@ -211,6 +211,11 @@ footer {
 .credit-block .credit-name {
     font-size: 13px;
     color: #444;
+    text-decoration: none;
+}
+
+.credit-block a.credit-name:hover {
+    color: #888;
 }
 
 .credit-block.right {
